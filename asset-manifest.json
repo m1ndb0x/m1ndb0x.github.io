@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/m1ndb0x.github.io/static/css/main.4848f150.css",
+    "main.js": "/m1ndb0x.github.io/static/js/main.050c8446.js",
+    "static/js/453.1407b060.chunk.js": "/m1ndb0x.github.io/static/js/453.1407b060.chunk.js",
+    "static/media/Necosmic-PersonalUse.otf": "/m1ndb0x.github.io/static/media/Necosmic-PersonalUse.4b4109d11d5115b14e7e.otf",
+    "static/media/conthrax-sb.otf": "/m1ndb0x.github.io/static/media/conthrax-sb.787c73c4164cc642bfd1.otf",
+    "static/media/varsity_regular.ttf": "/m1ndb0x.github.io/static/media/varsity_regular.9fcd8e9b5ab4b337186d.ttf",
+    "index.html": "/m1ndb0x.github.io/index.html",
+    "main.4848f150.css.map": "/m1ndb0x.github.io/static/css/main.4848f150.css.map",
+    "main.050c8446.js.map": "/m1ndb0x.github.io/static/js/main.050c8446.js.map",
+    "453.1407b060.chunk.js.map": "/m1ndb0x.github.io/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4848f150.css",
+    "static/js/main.050c8446.js"
+  ]
+}
