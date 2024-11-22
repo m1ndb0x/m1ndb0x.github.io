@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(-45deg, #ff9a9e, #fad0c4, #fbc2eb, #a18cd1);
+  background-size: 400% 400%;
+  animation: gradientBG 15s ease infinite;
+}
+
+@keyframes gradientBG {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.offcanvas {
+  background: inherit; /* Matches the main background */
+}
+
+.card {
+  background: inherit; /* Matches the main background */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  background: inherit; /* Matches the main background */
+  transform: translateY(-10px); /* Lifts the card on hover */
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3); /* Increases shadow */
+}
+
+@font-face {
+  font-family: 'Necosmic';
+  src: url('./assets/fonts/Necosmic-PersonalUse.otf') format('truetype'); /* Update the path */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Conthrax';
+  src: url('./assets/fonts/conthrax-sb.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Varsity';
+  src: url('./assets/fonts/varsity_regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
