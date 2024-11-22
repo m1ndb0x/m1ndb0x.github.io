@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.167a2c94.css",
+    "main.js": "/static/js/main.58973283.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/Necosmic-PersonalUse.otf": "/static/media/Necosmic-PersonalUse.4b4109d11d5115b14e7e.otf",
+    "static/media/conthrax-sb.otf": "/static/media/conthrax-sb.787c73c4164cc642bfd1.otf",
+    "static/media/varsity_regular.ttf": "/static/media/varsity_regular.9fcd8e9b5ab4b337186d.ttf",
+    "index.html": "/index.html",
+    "main.167a2c94.css.map": "/static/css/main.167a2c94.css.map",
+    "main.58973283.js.map": "/static/js/main.58973283.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.167a2c94.css",
+    "static/js/main.58973283.js"
+  ]
+}
